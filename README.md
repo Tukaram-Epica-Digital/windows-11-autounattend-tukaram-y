@@ -16,8 +16,7 @@ Requisitos
 El archivo de respuesta autounattend.xml permite automatizar gran parte del proceso de instalación de Windows.
 Incluye descripciones detalladas de casi todas las configuraciones y ajustes del registro, para que puedas revisar y modificar todo con total transparencia.
 
-Para personalizarlo, descarga el archivo y ábrelo con editores como Cursor o VS Code.
-Funciones principales
+Para personalizarlo, descarga el archivo y lo importas en esta web : https://schneegans.de/windows/unattend-generator/
 
     Permite elegir la edición de Windows, salvo que el instalador detecte una clave en la BIOS/UEFI.
 
